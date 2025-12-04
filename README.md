@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">I'm Arthur Hugo from Brazil <br><br>- 🔭 I’m working as an intern at Universidade Federal de Santa Catarina <br>- 📚 I'm currently learning Java, Go and microservices<br>- ⚡ In my free time I like to play chess and code</p>
+<p align="left">I'm Arthur Hugo from Brazil <br><br>- 🔭 I’m working as an intern at Universidade Federal de Santa Catarina <br>- 📚 I'm currently studying Java, Go and microservices<br>- ⚡ In my free time I like to play chess and code</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -56,6 +56,10 @@
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -66,8 +70,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arthurhdr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhdr&hide=css,html&show_icons=true&theme=transparent"/>
 </div>
