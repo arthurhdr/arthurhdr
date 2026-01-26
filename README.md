@@ -60,4 +60,6 @@
   <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="40" alt="PHP logo"  />
 </div>
