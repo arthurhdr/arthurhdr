@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Arthur Hugo from Brazil <br><br>- 🔭 I last worked as an intern at Universidade Federal de Santa Catarina <br>- 📚 I'm currently studying Go<br>- ⚡ In my free time I like to play chess and code</p>
+<p align="left">I'm Arthur Hugo from Brazil <br><br>- 🔭 Currently working as a Software Developer at Pixel Breeders <br>- 📚 I'm currently studying Go<br>- ⚡ In my free time I like to play chess and code</p>
 
 ###
 
