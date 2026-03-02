@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoMnZ5OXA0MWs3MTg3YXltbHhsajU5dXRjZGlqeWdtenJxemtldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-</div>
 
 ###
 
@@ -30,36 +27,3 @@
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="node logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Git.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="40" alt="PHP logo"  />
-</div>
