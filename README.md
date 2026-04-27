@@ -51,7 +51,8 @@ Repos I'm too shy to share and many more private things and study repos you can 
 - Building at Pixel Breeders (FastAPI, Faust, Redpanda, Kubernetes and a lot more)
 - Learning Go properly
 - Loving Rust
-- Studying for ADS at Univille
+- Studying Systems Analysis and Development at University
+- Former physics student
 
 ---
 
