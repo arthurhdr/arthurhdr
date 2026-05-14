@@ -2,9 +2,9 @@
 
 Software developer from Joinville, Brazil. Currently building at [Pixel Breeders](https://github.com/Pixel-Breeders) — event-driven architecture, multi-tenant systems, the whole deal. In my free time I play chess and learn Go (the language, not the board game — though also that) and Rust (Again, not the game).
 
-Linux user and open source supporter. Currently I use Xubuntu but I'm switching to Arch (I will use Arch, btw)
+Linux user and open source supporter. CachyOS user
 
-Studied Physics at UFSC before switching fully to software. The background stuck: I still think in systems, edge cases and first principles before touching a keyboard.
+Studied Physics at UFSC before switching fully to software.
 
 ---
 
@@ -49,7 +49,7 @@ Repos I'm too shy to share and many more private things and study repos you can 
 ## Currently
 
 - Building at Pixel Breeders (FastAPI, Faust, Redpanda, Kubernetes and a lot more)
-- Learning Go properly
+- Learning Go 
 - Loving Rust
 - Studying Systems Analysis and Development at University
 - Former physics student
